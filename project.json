@@ -1,0 +1,12 @@
+{
+  "name": "LessonScript",
+  "requiredEnv": [
+    "DATABASE_URL",
+    "SESSION_SECRET",
+    "APP_ORIGIN",
+    "OPERATOR_ACCESS_CODE",
+    "JUDGE_ACCESS_CODE",
+    "CRON_SECRET"
+  ],
+  "event": "https://syntax-summit.devpost.com/"
+}
